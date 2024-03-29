@@ -1,2 +1,2 @@
 # RedditNewsLetter
-A AI powered newsletter which summarizes your favorite subreddits! 
+An AI powered newsletter which summarizes your favorite subreddits! 
